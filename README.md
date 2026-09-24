@@ -41,3 +41,8 @@ Each operation (add, view, search, update, delete) is performed using standard S
 3. Each cell demonstrates a specific operation (add, view, search, total, update, delete).
 
 ## Sample Output
+Total Expenses: ₹ 2840.0
+Food → ₹ 800.0
+Travel → ₹ 240.0
+Shopping → ₹ 1600.0
+Education → ₹ 200.0
